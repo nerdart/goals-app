@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.ui.secondary.vertical.pointing.menu .active.item {
+  border:none !important;
+}
+.header.item {
+width:21rem;
+}
+.commentStyle  :first-child{
+  margin-top:13rem !important;
+}
+.ui.pointing.secondary.vertical.menu .item{
+  text-align: left;
+  color: grey;
+  font-size:15px;
+  width:215px;
+  padding-bottom: 2rem;
+}
+.right .active.item
+{
+  background: rgba(0,0,0,.05);
+  color: rgba(0,0,0,.95);
+  font-weight: 400;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.avatarLogo
+{
+  height: 30px;
+  width: 30px;
+  border-radius: 25px;
+}
+.weekInFocusSection {
+  background-color: #F4F6FF;
+}
+.weekPartition{
+  height: 60rem;
+  border:2px solid #ddd;
+  border-radius: 6rem;
+  width: 30rem;
+  text-align: left;
+}
+.previousWeek {
+  padding-left:6rem !important;
+  margin-top:2rem !important;
+}
+.currentWeek{
+  padding-left: 14rem !important;
+  margin-top:2rem !important;
+}
+.weekTitle{
+  padding-top: 5rem;
+  text-align: left;
+  padding-left: 3rem;
+}
+.point{
+  margin-top: 3rem;
+  padding-left: 3rem;
+}
+.authorName {
+  color:#222;
+}
+.point li{
+  color : #3232FF;
+}
+.subjectDesc {
+  padding-left: 2.3rem;
+  padding-top: 5px;
+  color:#222;
+}
+.detailedDesc {
+  padding-top: 1rem;
+  padding-left: 2.3rem;
+  color: #BCB9B9;
+}
+.endTime{
+  float: right;
+  padding-right: 1rem;
+  font-size: 15px;
+  color: #a5a1a1;
+}
+.pointSection {
+  margin-bottom: 3rem;
+  margin-right: 2rem;
+}
+.droppableSection{
+  border:2px solid #ddd;
+  height: 600px;
+  width: 300px;
+}

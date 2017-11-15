@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "test"
+    },
+    {
+      "text": "dsdfdsf",
+      "id": 2
+    },
+    {
+      "text": "goal 2",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "some comment",
+      "todosId": 1
+    }
+  ],
+  "week": [
+    {
+      "id": 1,
+      "title" :"Tille Kim",
+      "subject":"New App Design Project",
+      "dayOne": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor"
+    },
+    {
+      "id": 2,
+      "title" :"Fanny Stephens",
+      "subject":"New App Design Project",
+      "dayOne": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor"
+    }
+  ]
+
+}
